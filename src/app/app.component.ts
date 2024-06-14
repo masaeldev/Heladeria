@@ -11,7 +11,7 @@ import { FooterComponent } from './pages/footer/footer.component';
     FooterComponent
   ],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  styles: ''
 })
 export class AppComponent {
   title = 'DRAGONICE';
